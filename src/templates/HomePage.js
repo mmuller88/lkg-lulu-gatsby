@@ -10,7 +10,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
   <main className="Home">
     <PageHeader
       large
-      title={title}
+      title={title} boooing
       subtitle={subtitle}
       backgroundImage={featuredImage}
     />
