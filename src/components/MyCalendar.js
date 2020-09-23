@@ -2,6 +2,8 @@ import React, { Component } from "react";
 import { Calendar, momentLocalizer, Views } from "react-big-calendar";
 import moment from "moment";
 import 'moment/locale/de'
+import {UncontrolledTooltip} from "reactstrap";
+
 import { getEvents } from "./fetch";
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'font-awesome/css/font-awesome.min.css'
@@ -44,6 +46,7 @@ export default class App extends Component {
           views={ [ Views.AGENDA, Views.MONTH, Views.DAY ]}
         //   views={allViews}
           step={60}
+          popup={true}
           showMultiDayTimes
           startAccessor="start"
           endAccessor="end"
@@ -60,7 +63,22 @@ export default class App extends Component {
           }}
           components={{
             timeSlotWrapper: ColoredDateCellWrapper,
+            event: function (component) {
+                const targetId = "UncontrolledTooltip";
+                const { event } = component;
+                console.log(event)
+                return <div id={targetId}>
+                    {event?.title}
+                    <UncontrolledTooltip placement={"top"}
+                        autohide={false}
+                        style={{ minWidth: 200 }}
+                        target={targetId} trigger={"hover"}>
+                        Your tooltip content
+                    </UncontrolledTooltip>
+                </div>;
+            },
           }}
+          
         //   onNavigate
         />
       </div>
