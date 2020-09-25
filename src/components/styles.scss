@@ -96,6 +96,21 @@ a {
   min-height: 580px;
 }
 
+.rbc-month-row, .rbc-event-content {
+  overflow: visible;
+}
+.rbc-row-segment {
+  position: relative;
+}
+.rbc-event-content a {
+  color: yellow;
+}
+
+.popover-content {
+  color: black;
+  padding: 9px 14px;
+}
+
 .rbc-calendar {
   flex: 1;
   // min-height: 580px;

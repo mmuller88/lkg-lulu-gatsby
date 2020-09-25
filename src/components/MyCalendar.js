@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Calendar, momentLocalizer, Views } from "react-big-calendar";
+import { CustomEvent } from "./CustomEvent";
 import moment from "moment";
 import 'moment/locale/de'
 // import {UncontrolledTooltip} from "reactstrap";
@@ -59,9 +60,12 @@ export default class App extends Component {
             month: "Monat",
             week: "Woche",
             day: "Tag",
-            agenda: "Events"
+            agenda: "Events",
+            date: "Datum",
+            time: "Zeit",
           }}
           components={{
+            event: CustomEvent,
             timeSlotWrapper: ColoredDateCellWrapper,
             // event: function (component) {
             //     const targetId = "UncontrolledTooltip";
