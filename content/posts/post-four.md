@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: City
+title: VORLAGE! - City
 status: Featured / Published
 date: '2018-03-27'
 featuredImage: 'https://ucarecdn.com/43614a0b-9a59-4a08-ad5c-428574b3a2c4/'
@@ -17,6 +17,8 @@ meta:
   noindex: false
   title: test meta title
 ---
+DAS HIER IST NUR EINE VORLAGE UND HAT NICHTS MIT DER LKG LUDWIGSLUST ZU TUN!
+
 Paragraphs are separated by a blank line.
 
 ![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)

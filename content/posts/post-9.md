@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Sign
+title: VORLAGE! - Sign
 status: Featured / Published
 date: '2018-03-27'
 featuredImage: 'https://ucarecdn.com/157877ea-a2cb-49b6-8130-768fbe1a60a7/'
@@ -17,6 +17,8 @@ meta:
   noindex: false
   title: test meta title
 ---
+DAS HIER IST NUR EINE VORLAGE UND HAT NICHTS MIT DER LKG LUDWIGSLUST ZU TUN!
+
 Paragraphs are separated by a blank line.
 
 ![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)

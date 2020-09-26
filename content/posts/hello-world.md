@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Red
+title: VORLAGE! - Red
 status: Featured / Published
 date: '2018-03-27'
 featuredImage: 'https://ucarecdn.com/94633346-778b-4474-8039-b18280ec73a3/'
@@ -15,8 +15,10 @@ meta:
   canonicalLink: ''
   description: test meta description
   noindex: false
-  title: test meta title
+  title: VORLAGE - test meta title
 ---
+DAS HIER IST NUR EINE VORLAGE UND HAT NICHTS MIT DER LKG LUDWIGSLUST ZU TUN!
+
 Paragraphs are separated by a blank line.
 
 ![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)
