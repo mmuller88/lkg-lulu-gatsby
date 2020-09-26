@@ -2,8 +2,7 @@
 template: ContactPage
 slug: contact
 title: Kontakt
-featuredImage: >-
-  https://ucarecdn.com/7b2f4327-3236-4193-b13b-6932f05c91d3/-/crop/340x357/0,0/-/preview/
+featuredImage: 'https://ucarecdn.com/f03e3d45-7bee-443e-b8b1-d831e0483998/'
 subtitle: Prediger Frank Feldhusen
 address: 'Kanalstraße 34, 19288 Ludwigslust'
 phone: (03874) 2 19 81
