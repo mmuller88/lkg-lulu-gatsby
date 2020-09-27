@@ -2,7 +2,7 @@
 template: SinglePost
 title: Impressum
 status: Published
-date: '2020-09-27'
+date: '2000-09-27'
 excerpt: Impressum
 ---
 **Angaben gemäß § 5 TMG**
