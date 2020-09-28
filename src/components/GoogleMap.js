@@ -3,8 +3,8 @@ import GoogleMapReact from 'google-map-react'
 import { MapPin } from 'react-feather'
 
 let mapkey = ''
-if (process.env.LKG_LULU_MAP_KEY) {
-  mapkey = process.env.LKG_LULU_MAP_KEY
+if (process.env.GATSBY_MAP_KEY) {
+  mapkey = process.env.GATSBY_MAP_KEY
 }
 
 console.log('Netlify Mapkey: ' + mapkey);
