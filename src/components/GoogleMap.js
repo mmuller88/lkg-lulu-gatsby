@@ -3,11 +3,13 @@ import GoogleMapReact from 'google-map-react'
 import { MapPin } from 'react-feather'
 
 let mapkey = ''
-if (process.env.NETLIFY_MAP_KEY) {
-  mapkey = process.env.NETLIFY_MAP_KEY
+if (process.env.LKG_LULU_MAP_KEY) {
+  mapkey = process.env.LKG_LULU_MAP_KEY
 }
 
 console.log('Netlify Mapkey: ' + mapkey);
+
+// https://www.google.com/maps/embed/v1/place?key=AIzaSyASzqnCrYBWXhFtdlXXBg_KCLxQTa1I5Y4&q=53.3285551%2C11.4964919&center=53.3296571817%2C11.4959101579&zoom=15&maptype=roadmap
 
 class GoogleMap extends Component {
   static defaultProps = {
