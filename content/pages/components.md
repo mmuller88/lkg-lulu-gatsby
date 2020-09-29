@@ -1,6 +1,6 @@
 ---
 template: ComponentsPage
-slug: components
+slug: galleria
 title: Gemeinde Galeria
 featuredImage: 'https://ucarecdn.com/ae6c4a5d-ac9f-442a-af7e-60b3b0e681be/'
 subtitle: Bilder von unserer Gemeinde.
