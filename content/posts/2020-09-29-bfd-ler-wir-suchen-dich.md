@@ -30,7 +30,6 @@ meta:
 * Nette Wohnung
 * Kompetente Anleitung
 
-
 **Kontakt**: Dorothea Neumann (Vorsitzende), <https://lkg-ludwigslust.de/contact>
 
 ![Bild von Krippe 2](https://ucarecdn.com/6bed0ca5-d6f8-40d7-8aed-dad59db358eb/ "Bild von Krippe 2")
