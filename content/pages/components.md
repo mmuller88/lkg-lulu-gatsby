@@ -8,7 +8,7 @@ section1: >-
   Hier findest du Bilder von unsere Gemeinde um dir einen tollen Überblick über
   uns zu verschaffen.
 section2: |-
-  ## You can use videos, images and text.
+  ## Vorlage Videos, Images und Text.
 
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
