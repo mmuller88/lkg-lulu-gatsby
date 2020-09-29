@@ -26,6 +26,9 @@ accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
 gallery:
+  - alt: Bild von Landeskirchliche Gemeinde Ludwigslust
+    image: 'https://ucarecdn.com/bd750fd2-1439-4c7c-97e8-d08f9c1346a3/'
+    title: Bild von Landeskirchliche Gemeinde Ludwigslust
   - alt: Gemeindehaus
     image: 'https://ucarecdn.com/1a45bf78-6aca-410b-a90f-1f6e005c89ae/'
     title: Gemeindehaus
