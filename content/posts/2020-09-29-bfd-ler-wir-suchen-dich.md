@@ -3,7 +3,10 @@ template: SinglePost
 title: BFD-ler - wir suchen Dich!
 status: Published
 date: '2020-09-29'
+featuredImage: 'https://ucarecdn.com/0c5dcbf1-7ab2-4258-be7d-98031c69c7ed/'
 excerpt: BFD-ler - wir suchen Dich!
+categories:
+  - category: News
 meta:
   description: BFD-ler - wir suchen Dich!
   title: BFD-ler - wir suchen Dich!
