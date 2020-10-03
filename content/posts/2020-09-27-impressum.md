@@ -12,5 +12,4 @@ Schweriner Str. 6\
 19288 Ludwigslust
 
 Kontakt:\
-Telefon: 015123928040\
-E-Mail: office@martinmueller.dev
+E-Mail: office-AT-martinmueller-PUNKT-dev

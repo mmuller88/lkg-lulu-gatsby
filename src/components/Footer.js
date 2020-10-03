@@ -11,7 +11,7 @@ export default () => (
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          © Copyright {new Date().getFullYear()} <a href="/posts/impressum">Impressum</a> Alle Rechte reserviert.
+          © Copyright {new Date().getFullYear()} <a href="/posts/impressum">Impressum</a> Alle Rechte reserviert. Erstellt von <a target="_blank" href="https://martinmueller.dev">Martin Müller</a>
         </span>
       </div>
     </footer>
